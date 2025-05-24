@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Este repositório foi criado para o tema integrador UNIG
